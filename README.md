@@ -13,6 +13,7 @@ This repository contains a JSON dataset of anime details fetched using the AniLi
   - Status
   - Description
   - Main and Supporting Characters
+  - Anime's Anilist URL
 
 ## Usage
 You can load the dataset using Python:
